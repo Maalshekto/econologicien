@@ -1,0 +1,6 @@
+baseURL = "https://maalshekto.github.io/econologicien/"
+languageCode = "fr"
+title = "Éconologicien"
+
+# Désactive les taxonomies par défaut (tags, catégories)
+[taxonomies]
