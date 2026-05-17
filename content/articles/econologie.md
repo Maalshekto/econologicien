@@ -1,4 +1,8 @@
-+++ title = "Econologie appliquée" date = 2024-02-15 draft = false +++
++++ 
+title = "Econologie appliquée" 
+date = 2024-02-15 
+draft = false 
++++
 
 Avant d'investir, assurez-vous d'avoir remboursé les dettes coûteuses et constitué une épargne d'urgence. Définissez ensuite votre horizon et votre tolérance au risque.
 
