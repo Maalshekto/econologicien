@@ -4,8 +4,6 @@ date = 2024-01-15
 draft = false
 +++
 
-Coucou
-
 Commencez par noter vos revenus nets mensuels, puis listez vos charges fixes
 (loyer, abonnements, transport). Réservez ensuite un montant pour les dépenses
 variables et terminez par une enveloppe d'épargne automatique.
