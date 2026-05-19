@@ -1,6 +1,14 @@
 baseURL = 'https://econologicien.com/'
 languageCode = "fr"
 title = "Éconologicien"
-
+theme = 'ananke'
+[params]
+  # Couleur de fond de la bannière principale (ananke utilise des classes de couleur de Tachyons)
+  background_color_class = "bg-near-black"
+  # Texte d'accroche sur la page d'accueil
+  featured_image = "" # Tu pourras y mettre le chemin d'une image plus tard
+  description = "L'art de l'optimisation systémique des ressources individuelles."
+  
 # Désactive les taxonomies par défaut (tags, catégories)
 [taxonomies]
+
