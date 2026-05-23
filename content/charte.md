@@ -5,7 +5,7 @@ draft: false
 menu: "main"
 weight: 10
 ---
-
+<div style="text-align: justify;">
 Cette charte définit les fondements philosophiques, scientifiques et méthodologiques du projet **Éconologicien**. 
 Elle fait office de pare-feu déontologique et de cadre de référence pour l'ensemble des contenus, des analyses et des futurs accompagnements en hypnose.
 
@@ -32,3 +32,4 @@ Pour garantir la transparence et assainir la relation de confiance, des frontiè
 * **Le cœur de ma mission :** Accompagner les individus qui aspirent à développer une autonomie réelle dans la gestion de leurs ressources (financières, mentales, physiques). Le but n'est pas d'atteindre une perfection algorithmique rigide, mais de concevoir et d'implémenter des **systèmes imparfaits, profondément humains, mais hautement fonctionnels et durables**.
 
 ---
+</div>
