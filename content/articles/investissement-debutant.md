@@ -1,3 +1,4 @@
+description = "Investir quand on débute : les bases indispensables pour bâtir un patrimoine durable et éviter les erreurs classiques."
 +++
 title = "Investir quand on débute : les bases"
 date = 2024-02-15

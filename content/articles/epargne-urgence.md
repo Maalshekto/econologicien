@@ -1,3 +1,4 @@
+description = "Pourquoi et comment constituer un fonds d'urgence réaliste pour sécuriser votre patrimoine et votre tranquillité d'esprit."
 +++
 title = "Créer un fonds d'urgence réaliste"
 date = 2024-02-01

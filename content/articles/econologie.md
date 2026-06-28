@@ -1,3 +1,4 @@
+description = "Découvrez l'Éconologie, une approche systémique pour optimiser vos ressources personnelles : temps, argent et énergie."
 +++ 
 title = "Econologie appliquée" 
 date = 2024-02-15 

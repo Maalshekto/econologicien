@@ -1,3 +1,4 @@
+description = "Apprenez à construire un budget mensuel robuste en 4 étapes simples pour reprendre le contrôle de vos finances."
 +++
 title = "Construire un budget mensuel en 4 étapes"
 date = 2024-01-15
