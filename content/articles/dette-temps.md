@@ -1,10 +1,10 @@
-+++
-title = "La Dette de Temps : Pourquoi votre planning est votre passif le plus toxique"
-date = 2026-06-28
-draft = false
-description = "Apprenez à identifier la dette de temps, un passif financier et biologique majeur qui grève votre productivité et votre santé sur le long terme."
-tags = ["productivité", "systémique", "gestion-ressources"]
-+++
+---
+title : "La Dette de Temps : Pourquoi votre planning est votre passif le plus toxique"
+date : 2026-06-28
+draft : false
+description : "Apprenez à identifier la dette de temps, un passif financier et biologique majeur qui grève votre productivité et votre santé sur le long terme."
+tags : ["productivité", "systémique", "gestion-ressources"]
+---
 
 Dans le cadre de l'Éconologie appliquée, nous avons tendance à comptabiliser avec une précision maniaque nos euros et nos centimes. Pourtant, nous traitons notre ressource la plus rare — le temps — avec un amateurisme comptable qui mènerait n'importe quelle entreprise à la faillite en quelques trimestres.
 

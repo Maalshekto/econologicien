@@ -1,10 +1,10 @@
-+++
-title = "La Diversification du Capital Physique : Pourquoi votre routine est un risque systémique"
-date = 2026-06-28
-draft = false
-description = "Le capital physique est votre actif le plus précieux. Découvrez pourquoi la diversification de vos activités physiques est essentielle pour éviter les points de défaillance uniques."
-tags = ["santé", "systémique", "investissement-corporel"]
-+++
+---
+title : "La Diversification du Capital Physique : Pourquoi votre routine est un risque systémique"
+date : 2026-06-28
+draft : false
+description : "Le capital physique est votre actif le plus précieux. Découvrez pourquoi la diversification de vos activités physiques est essentielle pour éviter les points de défaillance uniques."
+tags : ["santé", "systémique", "investissement-corporel"]
+---
 
 Dans l'Éconologie appliquée, nous considérons le corps humain comme l'actif fondamental, le socle sur lequel repose toute capacité d'action future. Pourtant, lorsqu'il s'agit de constituer ce "capital physique", nous commettons souvent une erreur financière classique : **la sur-concentration sur un seul actif.**
 
