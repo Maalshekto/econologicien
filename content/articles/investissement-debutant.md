@@ -1,9 +1,10 @@
-description = "Investir quand on débute : les bases indispensables pour bâtir un patrimoine durable et éviter les erreurs classiques."
-+++
-title = "Investir quand on débute : les bases"
-date = 2024-02-15
-draft = false
-+++
+---
+description : "Investir quand on débute : les bases indispensables pour bâtir un patrimoine durable et éviter les erreurs classiques."
+
+title : "Investir quand on débute : les bases"
+date : 2024-02-15
+draft : false
+---
 
 Avant d'investir, assurez-vous d'avoir remboursé les dettes coûteuses et
 constitué une épargne d'urgence. Définissez ensuite votre horizon et votre

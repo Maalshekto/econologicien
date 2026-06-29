@@ -1,9 +1,9 @@
-description = "Pourquoi et comment constituer un fonds d'urgence réaliste pour sécuriser votre patrimoine et votre tranquillité d'esprit."
-+++
-title = "Créer un fonds d'urgence réaliste"
-date = 2024-02-01
-draft = false
-+++
+---
+description : "Pourquoi et comment constituer un fonds d'urgence réaliste pour sécuriser votre patrimoine et votre tranquillité d'esprit."
+title: "Créer un fonds d'urgence réaliste"
+date : 2024-02-01
+draft : false
+---
 
 Visez d'abord un premier palier de 1 000 €, puis augmentez progressivement
 jusqu'à 3 à 6 mois de dépenses essentielles. Placez cette épargne sur un
